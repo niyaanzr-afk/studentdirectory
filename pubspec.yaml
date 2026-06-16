@@ -39,6 +39,11 @@ dependencies:
   firebase_auth: ^6.5.2
   cloud_firestore: ^6.5.0
   google_fonts: ^8.1.0
+  flutter_launcher_icons: ^0.14.4
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/Appicon.png"
 
 dev_dependencies:
   flutter_test:
